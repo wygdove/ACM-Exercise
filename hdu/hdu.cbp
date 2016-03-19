@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="hdu" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/hdu" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/hdu" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="1010Tempter of the Bone.cpp" />
+		<Unit filename="1010Tempter of the Bone2.cpp" />
+		<Unit filename="1054Strategic Game.cpp" />
+		<Unit filename="1066Last non-zero Digit in N!.cpp" />
+		<Unit filename="1236排名2.cpp" />
+		<Unit filename="1261字串数.cpp" />
+		<Unit filename="1269迷宫城堡.cpp" />
+		<Unit filename="1272小希的迷宫.cpp" />
+		<Unit filename="1285确定比赛名次3.cpp" />
+		<Unit filename="1541Stars.cpp" />
+		<Unit filename="1556Color the ball.cpp" />
+		<Unit filename="1556Color the ball2.cpp" />
+		<Unit filename="1582AC Again.cpp" />
+		<Unit filename="2066一个人的旅行.cpp" />
+		<Unit filename="2112HDU Today.cpp" />
+		<Unit filename="2191悼念512汶川大地震遇难同胞——珍惜现在，感恩生活.cpp" />
+		<Unit filename="3339In Action.cpp" />
+		<Unit filename="3785寻找大富翁.cpp" />
+		<Unit filename="4604Deque.cpp" />
+		<Unit filename="4634Swipe Bo.cpp" />
+		<Unit filename="5167Fibonacci.cpp" />
+		<Unit filename="5418Victor and World.cpp" />
+		<Unit filename="5437Alisha’s Party.cpp" />
+		<Unit filename="5495LCS.cpp" />
+		<Unit filename="some.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

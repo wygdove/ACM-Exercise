@@ -1,0 +1,688 @@
+# depslib dependency file v1.0
+1413437332 source:d:\wyg\大二上\study\acm\code\project\new\zoj3665yukari's birthday.cpp
+	<iostream>
+	<memory.h>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1413442632 source:d:\wyg\大二上\study\acm\code\project\new\hdu4431mahjong.cpp
+	<iostream>
+	<memory.h>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1415880864 source:d:\wyg\大二上\study\acm\code\project\new\hsd1_1delta-wave.cpp
+
+1415884250 source:d:\wyg\大二上\study\acm\code\project\new\hsd1_2train problem i.cpp
+	<iostream>
+	<memory.h>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1415963593 source:d:\wyg\大二上\study\acm\code\project\new\hsd2_3bone collector.cpp
+	<iostream>
+	<memory.h>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1416119996 source:d:\wyg\大二上\study\acm\code\project\new\hsd2_2is it a tree.cpp
+
+1416122508 source:d:\wyg\大二上\study\acm\code\project\new\fourcompetition1_3big event in hdu.cpp
+	<iostream>
+	<memory.h>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1416124135 source:d:\wyg\大二上\study\acm\code\project\new\fourcompetition1_4big number.cpp
+	<iostream>
+	<memory.h>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1416127673 source:d:\wyg\大二上\study\acm\code\project\new\fourcompetition1_7天气情况.cpp
+	<iostream>
+	<memory.h>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1416227080 source:d:\wyg\大二上\study\acm\code\project\new\hsd3_1the area .cpp
+	<iostream>
+	<memory.h>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1416395141 source:d:\wyg\大二上\study\acm\code\project\new\sumsearch.cpp
+	<iostream>
+	<memory.h>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1416469289 source:d:\wyg\大二上\study\acm\code\project\new\fourcompetition2_4how many integers can you find  .cpp
+	<iostream>
+	<memory.h>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1416469955 source:d:\wyg\大二上\study\acm\code\project\new\fourcompetition2_6number steps  .cpp
+	<iostream>
+	<memory.h>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1416487924 source:d:\wyg\大二上\study\acm\code\project\new\fourcompetition2_2how far away.cpp
+
+1416488557 source:d:\wyg\大二上\study\acm\code\project\new\fourcompetition2_8to the max  .cpp
+	<iostream>
+	<memory.h>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1416572043 source:d:\wyg\大二上\study\acm\code\project\new\hsd5_4max factor.cpp
+	<iostream>
+	<memory.h>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1416727506 source:d:\wyg\大二上\study\acm\code\project\new\fourcompetition3_2easier done than said.cpp
+	<iostream>
+	<memory.h>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1416729775 source:d:\wyg\大二上\study\acm\code\project\new\fourcompetition3_4find the nth digit .cpp
+
+1416733198 source:d:\wyg\大二上\study\acm\code\project\new\fourcompetition3_6找单词 .cpp
+	<iostream>
+	<memory.h>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1417077398 source:d:\wyg\mycode\acm\new\fourcompetition4_4piggy-bank .cpp
+	<iostream>
+	<memory.h>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1417074130 source:d:\wyg\mycode\acm\new\fourcompetition4_2counting sheep .cpp
+	<iostream>
+	<memory.h>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1417075342 source:d:\wyg\mycode\acm\new\fourcompetition4_3color the ball .cpp
+	<iostream>
+	<memory.h>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1428832365 source:d:\wyg\mycode\acm\new\hd412_b.cpp
+
+1428822349 source:d:\wyg\mycode\acm\new\hd412_d.cpp
+
+1428830091 source:d:\wyg\mycode\acm\new\hd412_g.cpp
+
+1428830151 source:d:\wyg\mycode\acm\hdu\1054strategic game.cpp
+	<iostream>
+	<memory.h>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1428834680 source:d:\wyg\mycode\acm\new\hd412_f.cpp
+
+1428835290 source:d:\wyg\mycode\acm\new\hd412_e.cpp
+	<iostream>
+	<memory.h>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1429062654 source:d:\wyg\mycode\acm\new\hd415_b.cpp
+
+1429074845 source:d:\wyg\mycode\acm\new\hd415_c.cpp
+
+1429065317 source:d:\wyg\mycode\acm\new\hd415_a.cpp
+
+1429064033 source:d:\wyg\mycode\acm\new\hd415_d.cpp
+
+1429065087 source:d:\wyg\mycode\acm\new\hd415_i.cpp
+
+1429074849 source:d:\wyg\mycode\acm\new\hd415_c2.cpp
+	<iostream>
+	<memory.h>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1429154530 source:d:\wyg\mycode\acm\new\hd416_a.cpp
+
+1429151203 source:d:\wyg\mycode\acm\new\hd416_e.cpp
+
+1429156909 source:d:\wyg\mycode\acm\new\hd416_h.cpp
+
+1429157953 source:d:\wyg\mycode\acm\new\hd416_c.cpp
+	<iostream>
+	<memory.h>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1429342154 source:d:\wyg\mycode\acm\new\hiho编程之美2015资格赛_2_回文字符序列.cpp
+
+1429249005 source:d:\wyg\mycode\acm\new\hiho编程之美2015资格赛_3_基站选址.cpp
+
+1429342965 source:d:\wyg\mycode\acm\new\hiho编程之美2015资格赛_1_2月29日.cpp
+
+1429263326 source:d:\wyg\mycode\acm\new\hiho编程之美2015资格赛_1_2月29日2.cpp
+
+1429342969 source:d:\wyg\mycode\acm\new\hiho编程之美2015资格赛_1_2月29日3.cpp
+
+1429406903 source:d:\wyg\mycode\acm\new\hd419_d.cpp
+
+1429408545 source:d:\wyg\mycode\acm\new\hd419_b.cpp
+
+1429413979 source:d:\wyg\mycode\acm\new\hd419_a.cpp
+
+1429418559 source:d:\wyg\mycode\acm\new\hd419_c.cpp
+	<iostream>
+	<memory.h>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1430451437 source:d:\wyg\mycode\acm\new\hd501_d.cpp
+
+1430451532 source:d:\wyg\mycode\acm\new\hd501_b.cpp
+
+1430529751 source:d:\wyg\mycode\acm\new\hd502_a.cpp
+
+1430530845 source:d:\wyg\mycode\acm\new\hd502_d.cpp
+
+1430534120 source:d:\wyg\mycode\acm\new\hd502_d2.cpp
+
+1430534533 source:d:\wyg\mycode\acm\new\hd502_f.cpp
+
+1430538515 source:d:\wyg\mycode\acm\new\hd502_g.cpp
+
+1430539176 source:d:\wyg\mycode\acm\new\hd502_d3.cpp
+	<iostream>
+	<memory.h>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1432450705 source:d:\wyg\mycode\acm\new\百度之星资格赛_03_ip聚合.cpp
+	<iostream>
+	<memory.h>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1447587851 source:d:\wyg\mycode\acm\new\test.cpp
+
+1445774255 source:d:\wyg\mycode\acm\new\henu1_05tian ji -- the horse racing.cpp
+
+1446011364 source:d:\wyg\mycode\acm\new\search_18oil deposits.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1446373460 source:d:\wyg\mycode\acm\new\search_01tempter of the bone2.cpp
+
+1446372761 source:d:\wyg\mycode\acm\new\search_01tempter of the bone.cpp
+
+1446372740 source:d:\wyg\mycode\acm\new\search_04ignatius and the princess i.cpp
+
+1446036673 source:d:\wyg\mycode\acm\new\search_04ignatius and the princess i2.cpp
+
+1446038030 source:d:\wyg\mycode\acm\new\search_01tempter of the bone3.cpp
+
+1446375297 source:d:\wyg\mycode\acm\new\henu2_04fatmouse and cheese.cpp
+
+1446377736 source:d:\wyg\mycode\acm\new\henu2_02humble numbers.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1446978795 source:d:\wyg\mycode\acm\new\henu3_05zipper.cpp
+
+1447466554 source:d:\wyg\mycode\acm\new\henu3_01super jumping! jumping! jumping!.cpp
+
+1447473717 source:d:\wyg\mycode\acm\new\some.c
+
+1447582294 source:d:\wyg\mycode\acm\new\henu4_03common subsequence.cpp
+
+1447583383 source:d:\wyg\mycode\acm\new\henu4_01piggy-bank.cpp
+
+1447586196 source:d:\wyg\mycode\acm\new\henu4_05big event in hdu.cpp
+
+1447589046 source:d:\wyg\mycode\acm\new\henu4_04fatmouse's speed.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1448193816 source:d:\wyg\mycode\acm\new\henu5_01i need a offer!.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1448197471 source:d:\wyg\mycode\acm\new\henu5_05largest rectangle in a histogram.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1447473717 source:d:\wyg\00mycode\acm\new\some.c
+
+1447587851 source:d:\wyg\00mycode\acm\new\test.cpp
+
+1451105492 source:d:\wyg\00mycode\acm\new\hdu校赛12_01the country list.cpp
+
+1451104076 source:d:\wyg\00mycode\acm\new\hdu校赛12_04happy value.cpp
+
+1451109210 source:d:\wyg\00mycode\acm\new\hdu校赛12_09the magic tower.cpp
+
+1451115962 source:d:\wyg\00mycode\acm\new\hdu校赛12_05bitwise equations.cpp
+
+1451117044 source:d:\wyg\00mycode\acm\new\hdu校赛12_03the collector’s puzzle.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1451112598 source:d:\wyg\00mycode\acm\new\hdu校赛12_0601 matrix.cpp
+

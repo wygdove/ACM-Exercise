@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1438231762 source:d:\wyg\mycode\acm\multiuniversity\201501_02assignment.cpp
+
+1437628778 source:d:\wyg\mycode\acm\multiuniversity\201501_06friends.cpp
+
+1438229201 source:d:\wyg\mycode\acm\multiuniversity\201502_04delicious apples.cpp
+
+1438238694 source:d:\wyg\mycode\acm\multiuniversity\201504_02problem killer.cpp
+
+1439265441 source:d:\wyg\mycode\acm\multiuniversity\201506_11key set.cpp
+
+1438835230 source:d:\wyg\mycode\acm\multiuniversity\201504_10xyz and drops.cpp
+
+1439265427 source:d:\wyg\mycode\acm\multiuniversity\201506_03cake.cpp
+
+1439437109 source:d:\wyg\mycode\acm\multiuniversity\201507_05the shortest problem.cpp
+
+1439459251 source:d:\wyg\mycode\acm\multiuniversity\201508_03gcdlcm.cpp
+
+1442114538 source:d:\wyg\mycode\acm\multiuniversity\2015webchangchun_02ponds.cpp
+
+1442110506 source:d:\wyg\mycode\acm\multiuniversity\201508_08clock.cpp
+
+1442115237 source:d:\wyg\mycode\acm\multiuniversity\2015webchangchun_05travel.cpp
+
+1442113924 source:d:\wyg\mycode\acm\multiuniversity\2015webchangchun_05travel2.cpp
+
+1442116521 source:d:\wyg\mycode\acm\multiuniversity\2015webchangchun_05travel3.cpp
+
+1443330857 source:d:\wyg\mycode\acm\multiuniversity\test.cpp
+
+1442119518 source:d:\wyg\mycode\acm\multiuniversity\2015webchangchun_05travel4.cpp
+
+1442636056 source:d:\wyg\mycode\acm\multiuniversity\2015webchangchun_05travel5.cpp
+
+1442638104 source:d:\wyg\mycode\acm\multiuniversity\2015webshenyang_12largest point.cpp
+
+1442641666 source:d:\wyg\mycode\acm\multiuniversity\2015webshenyang_06fang fang.cpp
+
+1442651543 source:d:\wyg\mycode\acm\multiuniversity\2015webshenyang_10jesus is here.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1442650258 source:d:\wyg\mycode\acm\multiuniversity\2015webshenyang_02best solver.cpp
+
+1443241642 source:d:\wyg\mycode\acm\multiuniversity\2015webshanghai_08an easy problem.cpp
+
+1443244242 source:d:\wyg\mycode\acm\multiuniversity\2015webshanghai_10a sweet journey.cpp
+
+1443331648 source:d:\wyg\mycode\acm\multiuniversity\2015webhefei_08the next.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+

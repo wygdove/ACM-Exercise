@@ -1,0 +1,567 @@
+# depslib dependency file v1.0
+1411965339 source:d:\wyg\大二上\study\acm\code\project\hdu\5055bob and math problem.cpp
+	<iostream>
+	<fstream>
+	<memory.h>
+	<math.h>
+	<algorithm>
+	<string>
+	<map>
+	<set>
+	<stack>
+	<queue>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+	<iostream>
+	<fstream>
+	<memory.h>
+	<math.h>
+	<algorithm>
+	<string>
+	<map>
+	<set>
+	<stack>
+	<queue>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1411969153 source:d:\wyg\大二上\study\acm\code\project\hdu\2107founding of hdu.cpp
+	<iostream>
+	<memory.h>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+	<iostream>
+
+1411970284 source:d:\wyg\大二上\study\acm\code\project\hdu\2035人见人爱a^b.cpp
+	<iostream>
+	<memory.h>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1412153434 source:d:\wyg\大二上\study\acm\code\project\hdu\1285确定比赛名次.cpp
+
+1412153434 source:d:\wyg\大二上\study\acm\code\project\hdu\4857逃生.cpp
+
+1412763315 source:d:\wyg\大二上\study\acm\code\project\hdu\4883tiankeng’s restaurant.cpp
+	<iostream>
+	<memory.h>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1412231028 source:d:\wyg\大二上\study\acm\code\project\hdu\2189悼念512汶川大地震遇难同胞——来生一起走.cpp
+	<iostream>
+	<memory.h>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1412236115 source:d:\wyg\大二上\study\acm\code\project\hdu\2568前进.cpp
+	<iostream>
+	<memory.h>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1412761240 source:d:\wyg\大二上\study\acm\code\project\hdu\2093考试排名.cpp
+
+1413682416 source:d:\wyg\大二上\study\acm\code\project\hdu\1061rightmost digit.cpp
+	<iostream>
+	<memory.h>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1413682420 source:d:\wyg\大二上\study\acm\code\project\hdu\2072单词数.cpp
+
+1418388814 source:d:\wyg\mycode\acm\hdu\hdu1018big number.cpp
+	<iostream>
+	<memory.h>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1420190233 source:d:\wyg\mycode\acm\hdu\1066last non-zero digit in n!.cpp
+
+1421661962 source:d:\wyg\mycode\acm\hdu\1582ac again.cpp
+
+1421664055 source:d:\wyg\mycode\acm\hdu\1856more is better2.cpp
+
+1422289015 source:d:\wyg\mycode\acm\hdu\1556color the ball.cpp
+
+1421823487 source:d:\wyg\mycode\acm\hdu\2066一个人的旅行.cpp
+
+1421756274 source:d:\wyg\mycode\acm\hdu\1754i hate it.cpp
+	<iostream>
+	<memory.h>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1422285264 source:d:\wyg\mycode\acm\hdu\1166敌兵布阵.cpp
+	<iostream>
+	<memory.h>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1421901521 source:d:\wyg\mycode\acm\hdu\1285确定比赛名次3.cpp
+
+1421828840 source:d:\wyg\mycode\acm\hdu\1301jungle roads.cpp
+	<iostream>
+	<memory.h>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1421830292 source:d:\wyg\mycode\acm\hdu\1863畅通工程.cpp
+	<iostream>
+	<memory.h>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1421835571 source:d:\wyg\mycode\acm\hdu\3371connect the cities.cpp
+	<iostream>
+	<memory.h>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1421898933 source:d:\wyg\mycode\acm\hdu\1879继续畅通工程.cpp
+	<iostream>
+	<memory.h>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1421905444 source:d:\wyg\mycode\acm\hdu\1269迷宫城堡.cpp
+
+1421918609 source:d:\wyg\mycode\acm\hdu\2063过山车.cpp
+	<iostream>
+	<memory.h>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1421916941 source:d:\wyg\mycode\acm\hdu\1151air raid.cpp
+	<iostream>
+	<memory.h>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1430475411 source:d:\wyg\mycode\acm\hdu\1054strategic game.cpp
+
+1421995244 source:d:\wyg\mycode\acm\hdu\3339in action.cpp
+
+1421996239 source:d:\wyg\mycode\acm\hdu\3790最短路径问题.cpp
+	<iostream>
+	<memory.h>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1422168057 source:d:\wyg\mycode\acm\hdu\1272小希的迷宫.cpp
+
+1422288636 source:d:\wyg\mycode\acm\hdu\1541stars.cpp
+
+1422290557 source:d:\wyg\mycode\acm\hdu\1556color the ball2.cpp
+
+1422881493 source:d:\wyg\mycode\acm\hdu\5167fibonacci.cpp
+
+1423157221 source:d:\wyg\mycode\acm\hdu\3785寻找大富翁.cpp
+
+1426833359 source:d:\wyg\mycode\acm\hdu\1236排名2.cpp
+
+1426833347 source:d:\wyg\mycode\acm\hdu\1029ignatius and the princess iv.cpp
+	<iostream>
+	<memory.h>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1426924923 source:d:\wyg\mycode\acm\hdu\1261字串数.cpp
+
+1430476169 source:d:\wyg\mycode\acm\hdu\2191悼念512汶川大地震遇难同胞——珍惜现在，感恩生活.cpp
+
+1430477156 source:d:\wyg\mycode\acm\hdu\2844coins2.cpp
+	<iostream>
+	<memory.h>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1430831292 source:d:\wyg\mycode\acm\hdu\4604deque.cpp
+
+1430831485 source:d:\wyg\mycode\acm\hdu\1003max sum2.cpp
+	<iostream>
+	<memory.h>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1430831573 source:d:\wyg\mycode\acm\hdu\1231最大连续子序列2.cpp
+
+1442049735 source:d:\wyg\mycode\acm\hdu\some.cpp
+
+1438516403 source:d:\wyg\mycode\acm\hdu\2112hdu today.cpp
+
+1441543234 source:d:\wyg\mycode\acm\hdu\5428the factor.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1442208386 source:d:\wyg\mycode\acm\hdu\5417victor and machine.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1442221660 source:d:\wyg\mycode\acm\hdu\5441travel.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1442322085 source:d:\wyg\mycode\acm\hdu\5418victor and world.cpp
+
+1442323821 source:d:\wyg\mycode\acm\hdu\5443the water problem.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1442814433 source:d:\wyg\mycode\acm\hdu\5437alisha’s party.cpp
+
+1444469227 source:d:\wyg\mycode\acm\hdu\card game.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1444800064 source:d:\wyg\mycode\acm\hdu\4634swipe bo.cpp
+
+1444474657 source:d:\wyg\mycode\acm\hdu\5495lcs.cpp
+
+1445952846 source:d:\wyg\mycode\acm\hdu\1010tempter of the bone2.cpp
+
+1445952984 source:d:\wyg\mycode\acm\hdu\1010tempter of the bone.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+

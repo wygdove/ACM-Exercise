@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1442560108 source:d:\wyg\mycode\acm\hihocoder\acm-icpc国际大学生程序设计竞赛2015北京赛区网络练习赛_01performance log.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1442576226 source:d:\wyg\mycode\acm\hihocoder\acm-icpc国际大学生程序设计竞赛2015北京赛区网络练习赛_05browser caching.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1442574270 source:d:\wyg\mycode\acm\hihocoder\acm-icpc国际大学生程序设计竞赛2015北京赛区网络练习赛_05browser caching2.cpp
+
+1442729147 source:d:\wyg\mycode\acm\hihocoder\acm-icpc国际大学生程序设计竞赛2015北京赛区网络练习赛_02mission impossible 6.cpp
+
+1442733963 source:d:\wyg\mycode\acm\hihocoder\acm-icpc国际大学生程序设计竞赛2015北京赛区网络赛_02mission impossible 62.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+

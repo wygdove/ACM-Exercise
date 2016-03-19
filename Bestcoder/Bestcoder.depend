@@ -1,0 +1,376 @@
+# depslib dependency file v1.0
+1413027184 source:d:\wyg\大二上\study\acm\code\project\bestcoder\13_1beautiful palindrome number.cpp
+
+1413030845 source:d:\wyg\大二上\study\acm\code\project\bestcoder\13_2operation the sequence.cpp
+
+1413030845 source:d:\wyg\大二上\study\acm\code\project\bestcoder\13_4oh! my math home work.cpp
+
+1414235954 source:d:\wyg\大二上\study\acm\code\project\bestcoder\15_1love.cpp
+	<iostream>
+	<memory.h>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1414243469 source:d:\wyg\大二上\study\acm\code\project\bestcoder\15_1instruction.cpp
+	<iostream>
+	<memory.h>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1414286755 source:d:\wyg\大二上\study\acm\code\project\bestcoder\15_2instruction.cpp
+	<iostream>
+	<memory.h>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1416050408 source:d:\wyg\大二上\study\acm\code\project\bestcoder\18_1primes problem.cpp
+	<iostream>
+	<memory.h>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1419075409 source:d:\wyg\mycode\acm\bestcoder\23_1sequence.cpp
+	<iostream>
+	<memory.h>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1419683533 source:d:\wyg\mycode\acm\bestcoder\24_2sit sit sit.cpp
+	<iostream>
+	<memory.h>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1419685373 source:d:\wyg\mycode\acm\bestcoder\24_1sum sum sum.cpp
+	<iostream>
+	<memory.h>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1422703666 source:d:\wyg\mycode\acm\bestcoder\28_1missing number.cpp
+	<iostream>
+	<memory.h>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1422883045 source:d:\wyg\mycode\acm\bestcoder\27_1jump and jump....cpp
+	<iostream>
+	<memory.h>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1439032485 source:d:\wyg\mycode\acm\bestcoder\50div2_1distribution money.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1440845615 source:d:\wyg\mycode\acm\bestcoder\50div2_3the mook jong.cpp
+
+1441450442 source:d:\wyg\mycode\acm\bestcoder\53div2_1rikka with graph.cpp
+
+1441451638 source:d:\wyg\mycode\acm\bestcoder\54div2_1a problem of sorting.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1441456947 source:d:\wyg\mycode\acm\bestcoder\54div2_3geometric progression2.cpp
+
+1441458960 source:d:\wyg\mycode\acm\bestcoder\54div2_3geometric progression.cpp
+
+1448106411 source:d:\wyg\mycode\acm\bestcoder\test.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1442055955 source:d:\wyg\mycode\acm\bestcoder\54div2_2the factor.cpp
+
+1442057523 source:d:\wyg\mycode\acm\bestcoder\55_1pyramid split.cpp
+
+1442061237 source:d:\wyg\mycode\acm\bestcoder\55_1pyramid split2.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1442662103 source:d:\wyg\mycode\acm\bestcoder\56div2_01clarke and minecraft.cpp
+
+1442664373 source:d:\wyg\mycode\acm\bestcoder\56div2_02clarke and problem.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1443266084 source:d:\wyg\mycode\acm\bestcoder\57div2_01scaena felix.cpp
+
+1443270180 source:d:\wyg\mycode\acm\bestcoder\57div2_02conturbatio.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1444477123 source:d:\wyg\mycode\acm\bestcoder\59div2_01sdoi.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1444480908 source:d:\wyg\mycode\acm\bestcoder\59div2_02reorder the books.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1447500204 source:d:\wyg\mycode\acm\bestcoder\62div2_1clarke and food.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
+1448104232 source:d:\wyg\mycode\acm\bestcoder\63div2_1sequence1.cpp
+
+1448107353 source:d:\wyg\mycode\acm\bestcoder\63div2_2sequence2.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<algorithm>
+	<math.h>
+	<stack>
+	<queue>
+	<set>
+	<map>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+
